@@ -1,0 +1,66 @@
+# Elite7 Price Analyzer
+
+### Ferramenta de análise de preços e oportunidades no mercado de Trading Card Games
+
+## Sobre o projeto
+
+O **Elite7 Price Analyzer** é um projeto de ferramenta interna desenvolvido para auxiliar na análise de preços, identificação de oportunidades de compra e gestão estratégica de estoque da **Elite7**, loja online especializada na comercialização de cartas avulsas de Trading Card Games (TCG).
+
+A proposta é utilizar dados disponibilizados oficialmente pela API do **MYP Cards** para tornar os processos de pesquisa de mercado e precificação mais eficientes.
+
+O projeto está atualmente em fase inicial de desenvolvimento.
+
+## Objetivos
+
+- Consultar preços de cartas e produtos TCG.
+- Comparar preços anunciados com referências de mercado.
+- Identificar possíveis oportunidades de compra abaixo da média.
+- Analisar diferenças de preços entre edições e versões de cartas.
+- Criar indicadores e pontuações para priorizar análises de oportunidades.
+- Auxiliar na definição de preços competitivos para o estoque da Elite7.
+- Reduzir o tempo gasto em pesquisas manuais.
+
+## Trading Card Games
+
+O projeto terá foco inicial nos seguintes jogos:
+
+- Yu-Gi-Oh! Trading Card Game
+- Digimon Card Game
+
+Futuramente, poderá contemplar outros jogos disponíveis na plataforma.
+
+## Integração com MYP Cards
+
+A integração pretende utilizar os endpoints oficiais disponibilizados pela API do MYP Cards, conforme a documentação e as permissões concedidas.
+
+As funcionalidades serão implementadas de acordo com a disponibilidade dos dados, respeitando os limites de requisições e as condições de utilização da plataforma.
+
+**O projeto não tem como objetivo executar compras automatizadas ou reproduzir o marketplace.** Seu propósito é exclusivamente analítico e de apoio às decisões comerciais.
+
+## Uso comercial
+
+A ferramenta será utilizada internamente na operação da Elite7 para auxiliar nas decisões de compra, precificação e gerenciamento de estoque.
+
+Não há previsão inicial de comercialização do software ou disponibilização pública da ferramenta.
+
+## Atribuição e boas práticas
+
+O projeto se compromete a:
+
+- Identificar o MYP Cards como fonte dos dados utilizados.
+- Incluir referências e links para https://mypcards.com quando aplicável.
+- Respeitar os limites de uso e as regras da API.
+- Não divulgar credenciais ou chaves de autenticação.
+- Utilizar os dados exclusivamente dentro das permissões concedidas.
+
+## Status do desenvolvimento
+
+**Em desenvolvimento — aguardando aprovação de acesso à API do MYP Cards.**
+
+As funcionalidades e a estrutura técnica serão definidas conforme os recursos disponibilizados pela API.
+
+---
+
+**Desenvolvido para uso interno da Elite7.**
+
+Fonte de dados prevista: [MYP Cards](https://mypcards.com).
